@@ -1,0 +1,36 @@
+body {
+    background:  rgba(255, 166, 0, 0.781);
+    font: normal 15pt Arial;
+}
+
+header {
+    font: italic 15pt Verdana;
+    color:  white;
+    text-align: center;
+}
+
+section {
+    font: normal 12pt Verdana;
+    background:  white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.671);
+}
+
+footer {
+    color:  white;
+    text-align: center;
+    font-style: italic;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 45pc;
+    } 
+
+    
